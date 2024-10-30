@@ -1,0 +1,54 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+html{
+    font-size: 62.5%;
+}
+
+ul {
+    list-style: none;
+    width: 70%;
+    height: 60px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0 auto;
+    
+}
+
+li {
+    height: 50px;;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 1rem;
+}
+
+a {
+    height: 100%;
+    text-decoration: none;
+    color: white;
+    position: relative;
+    display: inline-flex;
+    position: relative;
+    flex-direction: column;
+    align-items: center;
+    font-size: 1.1rem;
+}
+
+i {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 25px;
+    font-size: 1.1rem;
+}
+
+span{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 25px;
+    font-size: 1.1rem;
+}

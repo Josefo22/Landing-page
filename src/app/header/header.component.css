@@ -1,0 +1,23 @@
+.header{
+    background-color: black;
+    width: 100%;
+}
+
+.header-superior{
+    display: flex;
+    justify-content: space-between;
+    max-width: 1680px;
+    margin: auto;
+    font-size: 18px;
+    height: 50px;
+}
+
+.header-inferior{
+    display: flex;
+    align-items: center;
+    width: 100%;
+    max-width: 1280px;
+    margin: auto;
+    padding: 0 25px;
+    box-sizing: border-box;
+}
