@@ -1,27 +1,27 @@
-# TrabajoFinal
+# Landing Page
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.13.
+Este repositorio contiene el código fuente de una landing page diseñada para promocionar productos o servicios de forma atractiva y efectiva. La página está optimizada para captar la atención de los visitantes y guiarlos hacia acciones clave como registrarse, suscribirse o hacer una compra.
 
-## Development server
+## Características
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+- **Diseño atractivo y responsivo**: Adaptado para funcionar en cualquier dispositivo, incluyendo móviles, tabletas y computadoras de escritorio.
+- **Optimización SEO**: Estructura de código y metadatos pensados para mejorar el posicionamiento en buscadores.
+- **Interactividad**: Incluye efectos visuales y animaciones para mejorar la experiencia del usuario.
 
-## Code scaffolding
+## Tecnologías utilizadas
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+- **HTML5**
+- **CSS3** (Flexbox y animaciones)
+- **JavaScript** (para efectos y funcionalidades adicionales)
 
-## Build
+## Estructura del proyecto
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+```plaintext
+├── index.html           # Página principal
+├── css/
+│   └── style.css        # Estilos principales de la página
+├── js/
+│   └── main.js          # JavaScript para la interactividad
+└── assets/
+    ├── img/             # Imágenes utilizadas en la landing page
+    └── icons/           # Iconos y otros recursos gráficos
